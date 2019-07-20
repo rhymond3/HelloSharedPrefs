@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jul 20 18:47:26 SGT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Rhymondgoo\\Desktop\\android-fundamentals-apps-v2-master\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
